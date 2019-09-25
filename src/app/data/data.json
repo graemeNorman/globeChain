@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Amazon",
+    "address": "410 Terry Avenue, Seattle, WA 98109",
+    "revenue": "100000",
+    "phone": "(206) 266-1000"
+  },
+  {
+    "name": "Tesla",
+    "address": "3500 Deer Creek Road, Palo Alto, CA 94304",
+    "revenue": "150000",
+    "phone": "(877) 796-3752"
+  }
+]
